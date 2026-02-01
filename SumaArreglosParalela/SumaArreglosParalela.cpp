@@ -1,7 +1,7 @@
 #include <iostream>
 #include <omp.h>
 
-#define N 10000
+#define N 1000
 #define CHUNK 10
 #define MOSTRAR 10
 
